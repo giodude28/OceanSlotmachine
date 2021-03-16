@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Máy đánh bạc - Tuyến đường biển VIP</string>
+    <string name="Image">Images</string>
+    <string name="title">Máy đánh bạc</string>
+    <string name="desc"> \t Bố cục tiêu chuẩn của một máy đánh bạc có màn hình hiển thị ba hoặc nhiều cuộn "quay" khi trò chơi bắt đầu. Một số máy đánh bạc hiện đại vẫn bao gồm đòn bẩy như một tính năng thiết kế thực tế để kích hoạt trò chơi. Tuy nhiên, các nguyên tắc cơ học của những cỗ máy thời kỳ đầu đã được thay thế bởi những bộ tạo số ngẫu nhiên, và hầu hết chúng hiện nay đều sử dụng nút bấm và màn hình cảm ứng để vận hành.
+        \n\n
+        Máy đánh bạc bao gồm một hoặc nhiều máy dò tiền tệ có thể xác minh các phương thức thanh toán, bao gồm tiền xu, tiền mặt, chứng từ hoặc mã thông báo. Khi trục quay ngừng "quay", máy sẽ trả tiền theo mẫu biểu tượng được hiển thị.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Lịch sử"
+android:icon="@drawable/home"
+        />
+    <item
+        android:id="@+id/prize"
+        android:enabled="true"
+        android:title="Thư viện giải thưởng"
+        android:icon="@drawable/prizes"
+        />
+    <item
+        android:id="@+id/term"
+        android:enabled="true"
+        android:title="Thuật ngữ"
+        android:icon="@drawable/terminologies"
+        />
+    <item
+        android:id="@+id/tip"
+        android:enabled="true"
+        android:title="Lời khuyên"
+        android:icon="@drawable/tips"
+        />
+</menu>

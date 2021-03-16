@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383618016175",
+    "project_id": "my-nh-bc---tuyn-ng-bin-vip",
+    "storage_bucket": "my-nh-bc---tuyn-ng-bin-vip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383618016175:android:7739cfaa60b57fb3c7055a",
+        "android_client_info": {
+          "package_name": "com.billy.oceanslotmachinesearoute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383618016175-uhqbm8oklbr8rdkqdobjvaclp5092eb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQ59Uut-hQXY4HtSst6gx7D1Si03yd-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383618016175-uhqbm8oklbr8rdkqdobjvaclp5092eb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
